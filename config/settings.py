@@ -13,7 +13,6 @@ class Settings:
     _cert_path = os.getenv("SHIOAJI_CERT_PATH")
     
     # 如果有設定路徑，就把它轉成電腦的絕對路徑
-    # 例如 ./certs/Sinopac.pfx -> /Users/dunnolee/taiex_bot_v2/certs/Sinopac.pfx
     if _cert_path:
         SHIOAJI_CERT_PATH = os.path.abspath(_cert_path)
     else:

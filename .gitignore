@@ -21,3 +21,5 @@ venv/
 # 忽略數據 (看你想不想備份 CSV，通常大量數據不進 git)
 data/
 logs/
+
+shioaji.log

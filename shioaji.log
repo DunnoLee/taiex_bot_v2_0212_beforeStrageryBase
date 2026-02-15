@@ -1,4 +1,0 @@
-[E 2026-02-11 20:25:43,485 /Users/dunnolee/taiex_bot_v2/.venv/lib/python3.12/site-packages/shioaji/utils.py:49:raise_resp_error] {'status': {'status_code': 406}, 'response': {'detail': 'Account Not Acceptable.'}}
-[E 2026-02-11 20:25:43,540 /Users/dunnolee/taiex_bot_v2/.venv/lib/python3.12/site-packages/shioaji/utils.py:49:raise_resp_error] {'status': {'status_code': 406}, 'response': {'detail': 'Account Not Acceptable.'}}
-[E 2026-02-11 20:31:12,477 /Users/dunnolee/taiex_bot_v2/.venv/lib/python3.12/site-packages/shioaji/utils.py:49:raise_resp_error] {'status': {'status_code': 406}, 'response': {'detail': 'Account Not Acceptable.'}}
-[E 2026-02-11 20:31:12,496 /Users/dunnolee/taiex_bot_v2/.venv/lib/python3.12/site-packages/shioaji/utils.py:49:raise_resp_error] {'status': {'status_code': 406}, 'response': {'detail': 'Account Not Acceptable.'}}
